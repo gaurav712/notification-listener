@@ -1,3 +1,5 @@
+> **Note:** This project is moved to Codeberg: https://codeberg.org/gaurav712/notification-listener
+
 # Notification Reader
 
 An Android app that reads and displays Google Maps navigation notifications.
@@ -18,4 +20,3 @@ An Android app that reads and displays Google Maps navigation notifications.
 
 - Android 7.0 (API 24) or higher
 - Notifications permission
-
